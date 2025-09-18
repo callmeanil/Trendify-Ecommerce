@@ -5,7 +5,7 @@ const Footer = () => {
           <div className="row">
             <div className="col-md-6">
               <h5>Anil Kumar</h5>
-              <p className="mb-0">Sample Product List by Aliste Technologies</p>
+              <p className="mb-0">Trendify-Ecommerce</p>
             </div>
             <div className="col-md-6 text-md-end">
               <p className="mb-0">&copy; {new Date().getFullYear()} Anil Kumar. All rights reserved.</p>

@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import ProductCard from "../component/productCard";
+import ProductCard from "../component/ProductCard"
 import { fetchProducts } from "../service/Apis";
 const ProductList = () => {
     const [products, setProducts] = useState([]);
